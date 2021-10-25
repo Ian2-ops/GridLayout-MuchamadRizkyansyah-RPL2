@@ -1,0 +1,95 @@
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="5"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/a"
+        android:layout_gravity="left|top"
+        android:text="A"
+        android:backgroundTint="@color/white"
+        android:textColor="@android:color/black"/>
+
+    <Button
+        android:id="@+id/b"
+        android:layout_gravity="left|top"
+        android:text="B"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/c"
+        android:layout_gravity="top"
+        android:text="C"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>/>
+
+    <Button
+        android:id="@+id/d"
+        android:layout_gravity="left|top"
+        android:text="D"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/e"
+        android:layout_gravity="left|top"
+        android:text="E"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/f"
+        android:layout_gravity="left|top"
+        android:text="F"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/g"
+        android:layout_gravity="left|top"
+        android:text="G"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/h"
+        android:layout_gravity="left|top"
+        android:text="H"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/i"
+        android:layout_gravity="left|top"
+        android:text="I"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/j"
+        android:layout_gravity="left|top"
+        android:text="J"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/k"
+        android:layout_gravity="left|top"
+        android:text="K"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/l"
+        android:layout_gravity="left|top"
+        android:text="L"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"/>
+</GridLayout>
